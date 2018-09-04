@@ -1,0 +1,13 @@
+Autor	Steven Cedeño Varela | Universidad Nacional de Costa Rica
+
+Fecha 27/09/2016
+
+El objetivo de este programa es administrar un Cine 
+con cierto numero de salas, incluyendo la posibilidad de no solo 
+proveer una venta de tiquetes si no que tambien un control de el 
+numero de salas o una mayor demanda que 
+requiera aumentar la cantidad de funciones al dia.
+
+IMPORTANTE
+CONTRASENA DE ADMINISTRADOR -> 1234
+
